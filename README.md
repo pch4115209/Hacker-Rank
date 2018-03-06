@@ -7,8 +7,37 @@
 </p>
 
 <p align="center">	
-	<bold>All solutions have passed all test cases on HackerRank unless <i>specified</i></bold>
+	<strong>All solutions have passed all test cases on HackerRank unless <i>specified</i></strong>
 </p>
+
+
+## Cracking the Coding Interview
+<table>
+<thead>
+<tr>
+    <th align="center">Topic</th>
+    <th align="center">Challenge</th>
+    <th align="center">Points</th>  
+</tr>
+</thead>
+<tbody>
+<tr>
+    <td align="center">Data Structures</td>
+    <td align="center">Array: Left Rotation</td>
+    <td align="center"></td>
+</tr>
+<tr>
+    <td align="center">Data Structures</td>
+    <td align="center">String: Making Anagrams</td>
+    <td align="center"></td>
+</tr>
+<tr>
+    <td align="center">Data Structures</td>
+    <td align="center">Tries: Contacts</td>
+    <td align="center"></td>
+</tr>
+</tbody>
+</table>
 
 
 
