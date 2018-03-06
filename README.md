@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">	
-	**All solutions have passed all test cases on HackerRank unless *specified* **
+	<bold>All solutions have passed all test cases on HackerRank unless <i>specified</i></bold>
 </p>
 
 
