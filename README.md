@@ -17,23 +17,39 @@
 <tr>
     <th align="center">Topic</th>
     <th align="center">Challenge</th>
-    <th align="center">Points</th>  
+    <th align="center">Points</th>
+    <td align="center">Note</th>  
 </tr>
 </thead>
 <tbody>
 <tr>
     <td align="center">Data Structures</td>
     <td align="center">Array: Left Rotation</td>
+    <td align="center">20</td>
+    <td align="center"></td>
+</tr>
+<tr>
+    <td align="center">Data Structures</td>
+    <td align="center">Hash Tables: Ransom Note</td>
+    <td align="center">25</td>
+    <td align="center">A minor bug is found in PHP solution tester, which will lead to failure in test Case 16 & 17</td>
+</tr>
+<tr>
+    <td align="center">Data Structures</td>
+    <td align="center">Trees: Is This a Binary Search Tree</td>
+    <td align="center">30</td>
     <td align="center"></td>
 </tr>
 <tr>
     <td align="center">Data Structures</td>
     <td align="center">String: Making Anagrams</td>
+    <td align="center">25</td>
     <td align="center"></td>
 </tr>
 <tr>
     <td align="center">Data Structures</td>
     <td align="center">Tries: Contacts</td>
+    <td align="center">50</td>
     <td align="center"></td>
 </tr>
 </tbody>
