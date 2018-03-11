@@ -40,6 +40,12 @@
 </tr>
 <tr>
     <td align="center">Data Structures</td>
+    <td align="center">Linked List: Detect a Cycle</td>
+    <td align="center">25</td>
+    <td align="center"></td>
+</tr>
+<tr>
+    <td align="center">Data Structures</td>
     <td align="center">Trees: Is This a Binary Search Tree</td>
     <td align="center">30</td>
     <td align="center"></td>
