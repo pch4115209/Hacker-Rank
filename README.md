@@ -32,7 +32,11 @@
     <td align="center">Data Structures</td>
     <td align="center">Hash Tables: Ransom Note</td>
     <td align="center">25</td>
-    <td align="center">A minor bug is found in PHP solution tester, which will lead to failure in test Case 16 & 17</td>
+    <td align="center">
+	A minor bug is found in PHP solution tester,<br />
+ 	which will lead to failure in test Case 16 & 17.<br />
+ 	Modify tester from magazine_temp = rtrim(fgets($handle)) to $magazine_temp = <strong>rtrim(</strong>fgets($handle)<strong>)</strong>  
+    </td>
 </tr>
 <tr>
     <td align="center">Data Structures</td>
